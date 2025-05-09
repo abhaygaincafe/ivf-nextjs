@@ -1,0 +1,273 @@
+{
+  "languages": {
+    "en": "English",
+    "hi": "Hindi"
+  },
+  "languageNames": {
+    "en": "English",
+    "en-US": "English (US)",
+    "en-GB": "English (UK)",
+    "en-IN": "English (India)",
+    "hi": "Hindi"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "tools": "Tools",
+    "resources": "Resources",
+    "about": "About",
+    "success": "Success",
+    "contact": "Contact",
+    "allServices": "All Services",
+    "blog": "Blog",
+    "learnAboutIVF": "Learn About IVF",
+    "faqs": "FAQs"
+  },
+  "phone": "Phone",
+  "bookConsultation": "Book Consultation",
+  "menu": "Menu",
+  "successRateCalculator": "Success Rate Calculator",
+  "fertilityAssessment": {
+    "badge": "Fertility Health Assessment",
+    "title": {
+      "start": "Evaluate Your",
+      "highlight": "Fertility Health"
+    },
+    "description": "Answer a few questions to get insights about your fertility status and next steps to help you achieve your family-building goals.",
+    "progressSteps": {
+      "start": "Getting Started",
+      "questions": "Questions",
+      "results": "Your Results"
+    },
+    "steps": {
+      "step1": {
+        "title": "Fertility Health Self-Assessment",
+        "description": "Answer the questions honestly to understand your fertility readiness.",
+        "question": "I am completing this assessment as:"
+      },
+      "step2": {
+        "titleFemale": "Questions for Women",
+        "titleMale": "Questions for Men",
+        "titleBoth": "Questions for Your Fertility Assessment",
+        "description": "Please answer all questions honestly for an accurate assessment."
+      }
+    },
+    "gender": {
+      "female": "Female / Woman",
+      "male": "Male / Man",
+      "both": "A Couple (Both Partners)"
+    },
+    "answers": {
+      "yes": "Yes",
+      "sometimes": "Sometimes",
+      "no": "No"
+    },
+    "questions": {
+      "female": {
+        "regularCycles": "Are your menstrual cycles regular (every 24–35 days)?",
+        "painfulPeriods": "Do you experience painful periods or heavy bleeding?",
+        "diagnosedConditions": "Have you ever been diagnosed with PCOS, thyroid issues, or endometriosis?",
+        "under35": "Are you under 35 years of age?",
+        "tryingToConceive": "Have you been trying to conceive for more than 12 months (or 6 months if over 35)?",
+        "unwantedSymptoms": "Do you experience symptoms like unwanted facial hair, acne, or weight gain?",
+        "previousConditions": "Have you had previous pelvic infections, surgeries, or miscarriages?"
+      },
+      "male": {
+        "semenAnalysis": "Have you ever had a semen analysis done?",
+        "knownIssues": "Do you have any known issues like low sperm count or varicocele?",
+        "lifestyle": "Do you smoke, drink excessively, or have a sedentary lifestyle?",
+        "surgeries": "Have you had any surgeries or trauma in the groin area?",
+        "exposure": "Are you exposed to high heat, radiation, or toxic substances at work?"
+      },
+      "both": {
+        "intercourse": "Do you have intercourse 2–3 times per week, timed around ovulation?",
+        "stress": "Do you feel stressed or anxious about fertility or parenthood?",
+        "evaluated": "Have you or your partner been evaluated for fertility before?"
+      }
+    },
+    "navigation": {
+      "back": "Back",
+      "next": "Next",
+      "submit": "Submit"
+    },
+    "results": {
+      "title": "Your Fertility Assessment Score",
+      "interpretationTitle": "What Your Score Means:",
+      "lowRisk": "Low Risk",
+      "moderateRisk": "Moderate Risk",
+      "highRisk": "High Risk",
+      "lowRiskTitle": "0-5 Points – Low Risk",
+      "lowRiskDescription": "You seem to be on the right track. Stay healthy and monitor.",
+      "moderateRiskTitle": "6-15 Points – Moderate Risk",
+      "moderateRiskDescription": "A basic fertility evaluation is recommended.",
+      "highRiskTitle": "16+ Points – High Risk",
+      "highRiskDescription": "You should consult a fertility expert without delay."
+    },
+    "contactForm": {
+      "title": "Want to discuss your results with our experts?",
+      "name": "Name",
+      "namePlaceholder": "Your Name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Your Phone Number",
+      "contactConsent": "I'd like a fertility specialist to contact me"
+    },
+    "toasts": {
+      "submitted": "Assessment submitted successfully!"
+    }
+  },
+  "aboutUs": {
+    "hero": {
+      "title1": "Helping Dreams of",
+      "title2": "Parenthood Come True",
+      "description": "Since 2008, we've been dedicated to providing world-class fertility care with compassion, innovation, and a commitment to helping families grow."
+    },
+    "stats": {
+      "experience": "Years of Experience",
+      "patients": "Happy Patients",
+      "successRate": "Success Rate",
+      "support": "Patient Support"
+    },
+    "doctor": {
+      "title": "Meet Dr. Ritu",
+      "paragraph1": "With over 15 years of dedicated experience in reproductive medicine, Dr. Ritu has established herself as one of the leading fertility specialists in the country. Her journey in reproductive medicine began at prestigious institutions, where she honed her expertise in advanced fertility treatments.",
+      "paragraph2": "Dr. Ritu's approach combines cutting-edge medical expertise with deep empathy for her patients. She has successfully helped thousands of couples achieve their dream of parenthood, earning recognition both nationally and internationally.",
+      "paragraph3": "Beyond her clinical practice, Dr. Ritu is actively involved in research and has published numerous papers in renowned medical journals. She regularly speaks at international conferences, sharing her insights and contributing to the advancement of fertility treatments."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "excellence": {
+        "title": "Excellence in Care",
+        "description": "We maintain the highest standards in fertility treatment, constantly updating our methods with the latest advancements."
+      },
+      "patientCentered": {
+        "title": "Patient-Centered Approach",
+        "description": "Every treatment plan is personalized, considering each patient's unique circumstances and needs."
+      },
+      "compassionate": {
+        "title": "Compassionate Support",
+        "description": "Our team provides emotional support throughout your journey, understanding the challenges of fertility treatment."
+      }
+    },
+    "achievements": {
+      "specialist": "Best Fertility Specialist 2023",
+      "research": "Published Research in Reproductive Medicine",
+      "speaker": "International Speaker on IVF Advances",
+      "member": "Member of Global Fertility Association"
+    },
+    "patientStory": {
+      "title": "A Journey of Hope",
+      "subtitle": "Real stories from our patients that inspire hope and determination",
+      "quote": "We got referred from Priyanka Yadav, my colleague in the bank. She told me about the behavior of Ritu ma'am and her experience. From the very first time since we met with ma'am, our experience was really very good. We were very happy with our experience with Dr. Ritu ma'am, and we will definitely advise other patients to start their beautiful journey of IVF with the most humblest and attentive doctor, Dr. Ritu Agarwal. Thank you so much ma'am.",
+      "author": "Lajwanti - Rishi Raj",
+      "role": "Successful IVF Journey, 2024"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Get answers to common questions about fertility treatments at Ritu IVF. If you don't find your question here, please don't hesitate to contact us.",
+    "questions": [
+      {
+        "question": "Does Embryo Transfer Hurt?",
+        "answer": "No, embryo transfer is generally not painful during treatment. Most patients feel minimal discomfort. The procedure is typically done while the patient is awake, using a soft catheter that passes through the cervix to place the embryo in the uterus."
+      },
+      {
+        "question": "How Many Visits Will Be Required To Complete IVF Treatment?",
+        "answer": "The number of visits required to complete IVF treatment can vary depending on individual circumstances, the protocol used by the fertility clinic, and the patient's response to treatment."
+      },
+      {
+        "question": "Is IVF Treatment Safe?",
+        "answer": "IVF is a completely safe treatment as most people do not experience any health issues throughout the entire process."
+      },
+      {
+        "question": "What Is The Average Success Rate Of IVF Treatment?",
+        "answer": "The average success rate of IVF treatment at Ritu IVF Center typically ranges from 80% to 95% per cycle, depending on various factors such as the woman's age, causes of infertility, and specific techniques used."
+      },
+      {
+        "question": "How Long Does It Take To Get Pregnant With IVF Treatment?",
+        "answer": "The duration to conceive with IVF treatment varies, typically ranging from several weeks to a few months. This timeline includes initial consultations, pre-treatment preparations, the actual IVF cycle, and monitoring until pregnancy confirmation."
+      },
+      {
+        "question": "Are IVF Babies Normal?",
+        "answer": "Yes, having babies through IVF is considered normal and is a common and effective solution for couples facing fertility issues."
+      },
+      {
+        "question": "How Can I Book An Appointment With A Doctor At Ritu IVF Center?",
+        "answer": "You can book an online appointment with the doctor by filling out the contact form. For a quick response, you can call us at +91 9057000555."
+      },
+      {
+        "question": "How Is Ritu IVF Different From Other Clinics?",
+        "answer": "At Ritu IVF, being 'Jaipur's Best IVF Center', we provide personalized care, cutting-edge technology, and compassionate support to help make your dream of parenthood come true."
+      }
+    ],
+    "stillHaveQuestions": "Still have questions? Our fertility specialists are ready to help.",
+    "contactUs": "Contact Us"
+  },
+  "testimonials": {
+    "title": "Success Stories",
+    "subtitle": "Hear from our happy families",
+    "description": "Nothing showcases our success better than the families we've helped create. Read their inspiring stories.",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "readMore": "Read More Success Stories",
+    "stories": [
+      {
+        "quote": "I took IVF treatment from Dr Ritu Agarwal and got blessed with two twin daughters successfully. When all hopes of conceiving were lost, Dr Ritu Agarwal proved to be a blessing for me. She is very patient with her patients and makes every possible effort to succeed. Now I can say that I am her big fan and would really recommend her.",
+        "author": "Siddhika",
+        "role": "Parents of Emma, 6 months"
+      },
+      {
+        "quote": "First of all I want to say thank you that we are really grateful that Dr Ritu Agarwal has made our dreams come true. She is very helpful and really a good doctor I have ever met. She not only listens to everyone's issue very patiently and peacefully but also gives a personal touch to everyone.",
+        "author": "Abhishek Jyoti Mittal",
+        "role": "Twin parents, 1 year"
+      },
+      {
+        "quote": "We got referred from Priyanka Yadav, my colleague in the bank. She told me about the behavior of Ritu ma'am and her experience. From the very first time since we met with ma'am, our experience was really very good. We were very happy with our experience with Dr. Ritu ma'am.",
+        "author": "Lajwanti - Rishi Raj",
+        "role": "First-time mom"
+      },
+      {
+        "quote": "It is actually not a difficult task to describe the journey of the arrival of 'Avaneesh'. It has been possible by the grace of god and the great efforts of ma'am Dr Ritu Agarwal. I remember the date 11/07/2021, when we first met ma'am. Her smile and confidence always supported us and cooperated in our goal.",
+        "author": "Priya and Abhi",
+        "role": "Parents of Oliver, 3 months"
+      }
+    ]
+  },
+  "whatToExpect": {
+    "title": "What to Expect",
+    "items": [
+      "Detailed consultation with an IVF specialist (45-60 minutes)",
+      "Review of your medical history and previous fertility treatments",
+      "Discussion of treatment options tailored to your needs",
+      "Answers to questions and addressing concerns",
+      "Tour of our state-of-the-art facilities (for in-person visits)"
+    ]
+  },
+  "successStories": {
+    "heroTitle1": "Real Stories",
+    "heroTitle2": "Real Success",
+    "heroDescription": "Meet the families who found their path to parenthood with us. Every journey is unique, every success story special.",
+    "stats": {
+      "babies": "3,000+ Babies Born",
+      "successRate": "92% Success Rate",
+      "experience": "15+ Years Experience"
+    },
+    "startYourStory": "Start Your Success Story",
+    "featuredStoriesTitle": "Featured Success Stories",
+    "featuredStoriesDescription": "Every family has a unique journey. Here are some of the remarkable stories from patients who overcame significant challenges.",
+    "challenge": "Challenge:",
+    "treatment": "Treatment:",
+    "viewMore": "View More Stories",
+    "agePrefix": "Ages",
+    "journeyTitle": "Our Success Journey",
+    "journeyDescription": "Follow our clinic's growth and milestones as we've helped families around the world.",
+    "babies": "Babies",
+    "familyWordsTitle": "Words From Our Families",
+    "familyWordsDescription": "Brief moments of joy shared by parents who found success with our treatments.",
+    "readyTitle": "Ready to Write Your Success Story?",
+    "readyDescription": "Join the thousands of families who found their path to parenthood with our world-class fertility treatments and compassionate care.",
+    "bookConsultation": "Book a Consultation",
+    "contactUs": "Contact Us"
+  }
+}
